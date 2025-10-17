@@ -1,2 +1,2 @@
 # INF155
-Projet Inf155
+Mathis BERNARD
